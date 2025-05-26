@@ -41,5 +41,4 @@ The `Task1.ipynb` notebook follows this flow:
    - Applied SHAP (SHapley Additive exPlanations) to understand the impact of individual features on model predictions.
 
 
-   git clone https://github.com/yourusername/Coding-Week-ML.git
-   cd Coding-Week-ML
+   
