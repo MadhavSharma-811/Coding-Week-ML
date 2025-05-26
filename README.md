@@ -40,27 +40,6 @@ The `Task1.ipynb` notebook follows this flow:
 4. **Model Interpretation**  
    - Applied SHAP (SHapley Additive exPlanations) to understand the impact of individual features on model predictions.
 
----
 
-## ❗ Current Limitations
-
-- **Model Performance**: Accuracy is currently lower than a baseline model predicting "No" for all cases.
-- **Feature Understanding**: Dataset columns were not labeled, requiring assumptions and guesses.
-
----
-
-## 🚀 Future Improvements
-
-- Access to actual feature definitions to refine preprocessing and modeling
-- Hyperparameter tuning and feature engineering
-- Exploring alternative algorithms (e.g., XGBoost, LightGBM)
-- Model performance metrics beyond accuracy (e.g., F1-score, ROC-AUC)
-
----
-
-## 📂 How to Run
-
-1. Clone the repository:
-   ```bash
    git clone https://github.com/yourusername/Coding-Week-ML.git
    cd Coding-Week-ML
